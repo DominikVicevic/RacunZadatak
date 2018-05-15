@@ -1,0 +1,10 @@
+C:\Users\Učenik\source\repos\VicevicDominikRacun\VicevicDominikRacun\bin\Debug\VicevicDominikRacun.exe.config
+C:\Users\Učenik\source\repos\VicevicDominikRacun\VicevicDominikRacun\bin\Debug\VicevicDominikRacun.exe
+C:\Users\Učenik\source\repos\VicevicDominikRacun\VicevicDominikRacun\bin\Debug\VicevicDominikRacun.pdb
+C:\Users\Učenik\source\repos\VicevicDominikRacun\VicevicDominikRacun\obj\Debug\VicevicDominikRacun.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\source\repos\VicevicDominikRacun\VicevicDominikRacun\obj\Debug\VicevicDominikRacun.Form1.resources
+C:\Users\Učenik\source\repos\VicevicDominikRacun\VicevicDominikRacun\obj\Debug\VicevicDominikRacun.Properties.Resources.resources
+C:\Users\Učenik\source\repos\VicevicDominikRacun\VicevicDominikRacun\obj\Debug\VicevicDominikRacun.csproj.GenerateResource.Cache
+C:\Users\Učenik\source\repos\VicevicDominikRacun\VicevicDominikRacun\obj\Debug\VicevicDominikRacun.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\VicevicDominikRacun\VicevicDominikRacun\obj\Debug\VicevicDominikRacun.exe
+C:\Users\Učenik\source\repos\VicevicDominikRacun\VicevicDominikRacun\obj\Debug\VicevicDominikRacun.pdb
